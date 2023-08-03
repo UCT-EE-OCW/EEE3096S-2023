@@ -1,7 +1,7 @@
 # EEE3096S-WorkPackages-2023
 Repository of Workpackages for EEE3096/5S course 2023
 
-The Lab manual contains all details.
+The practical manuals contain all further details.
 
 ## Work Packages
 1. Work Package 1
