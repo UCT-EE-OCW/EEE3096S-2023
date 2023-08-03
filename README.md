@@ -1,5 +1,5 @@
 # EEE3096S-WorkPackages-2023
-Repository of Workpackages for EEE3096/5S course 2023
+Repository of Workpackages for the EEE3095/6S course 2023
 
 The practical manuals contain all further details.
 
