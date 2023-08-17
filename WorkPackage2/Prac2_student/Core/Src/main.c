@@ -105,7 +105,7 @@ int main(void)
   MX_TIM16_Init();
   /* USER CODE BEGIN 2 */
 
-  // TODO: Start timer TIM16; HINT: Check HAL library
+  // TODO: Start timer TIM16
 
 
   // TODO: Write all "patterns" to EEPROM using SPI
